@@ -1,0 +1,14 @@
+table {
+    margin-left: 400px;
+    margin-top: 50px;
+}
+td {
+    margin: 1em;
+    padding: 0.2em;
+
+}
+img {
+    box-shadow: 2px 3px 3px black;
+    width: 400px;
+    height: 100px;
+}
